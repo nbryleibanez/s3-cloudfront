@@ -3,7 +3,7 @@ name: React Test
 on:
   pull_request:
     branches:
-      - staging
+      - master
 
 jobs:
   test:
